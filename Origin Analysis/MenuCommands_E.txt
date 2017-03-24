@@ -11,10 +11,8 @@ Version = 2
 2 = {"35577","","Color Map Surface"}
 3 = {"35579","","Wire Frame"}
 4 = {"35568","","3D Scatter"}
-
 [Ver]
 33
-
 [Menu_wksWorksheet]
 1 = XYZ2Mat|0||&XYZ Gridding:Convert XYZ worksheet data into matrix|14|<Last used>...|0|1
 2 = XYZ2Mat|0||&XYZ Gridding:Convert XYZ worksheet data into matrix|14||0|1
